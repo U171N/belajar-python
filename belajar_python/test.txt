@@ -1,0 +1,3 @@
+contoh membuat file dengan menggunakan python
+test
+contoh penambahan isi suatu file dengan python
